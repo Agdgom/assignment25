@@ -1,0 +1,23 @@
+[
+  {
+    "id": 1,
+    "username": "bazera",
+    "firstName": "Giorgi",
+    "lastName": "Bazerashvili",
+    "aboutMe": "About Bazera"
+  },
+  {
+    "id": 2,
+    "username": "kote",
+    "firstName": "Kostantine",
+    "lastName": "Kirkitadze",
+    "aboutMe": "About Kostantine"
+  },
+  {
+    "id": 3,
+    "username": "besarion",
+    "firstName": "Besarion",
+    "lastName": "Gagelidze",
+    "aboutMe": "About Besarion"
+  }
+]
